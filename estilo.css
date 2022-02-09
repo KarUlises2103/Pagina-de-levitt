@@ -1,0 +1,44 @@
+table {
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: url("gradient.gif") ;
+    color: #fff;
+ }
+ table.tabla2{
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: url("gradient2.gif") ;
+    color: #fff;
+ }
+ table.tabla3{
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: url("gradient3.gif") ;
+    color: #fff;
+ }
+ td, th {
+    background: #fff;
+    color: #000;
+ }
+ body {
+     background-color: #000;
+ }
+ 
+ td.titulo{
+     background: url("gradient.gif");
+     color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 25px;
+ }
+ td.titulo2{
+    background: url("gradient2.gif");
+    color: rgb(0, 0, 0);
+   text-align: center;
+   font-size: 25px;
+ }
+ td.titulo3{
+    background: url("gradient3.gif");
+    color: rgb(0, 0, 0);
+   text-align: center;
+   font-size: 25px;
+ }
